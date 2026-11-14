@@ -35,7 +35,7 @@ name; the app itself opens and is listed as **QRPhoto**.
 
 1. Open QRPhoto on the iPhone connected to the same Wi-Fi (a personal hotspot works too).
 2. Tap **QR 찍기** and scan the code on the Mac.
-3. Pick photos or videos and send. The first 100 items are free; passes remove the limit.
+3. Pick photos or videos and send. The first 50 items are free; passes remove the limit.
 
 ## Windows receiver
 
